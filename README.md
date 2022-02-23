@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @spcrs
-- 👀 I’m interested in competitive programming
+- 👀 I’m interested in competitive programming - [leetcode](https://leetcode.com/spcrs/)
 - 🌱 I’m currently learning MCA 
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me through [email](spcrsankar@gmail.com), [linkedin](https://linkedin.com/in/sankaralingam-r-7786a91b5)
